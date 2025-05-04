@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Organization Name</h1>
+        <p>Welcome to our one-page website!</p>
+    </header>
+    
+    <section>
+        <h2>About Us</h2>
+        <p>Information about your organization goes here.</p>
+    </section>
+    
+    <section>
+        <h2>Contact</h2>
+        <p>How people can reach you.</p>
+    </section>
+</body>
+</html>
